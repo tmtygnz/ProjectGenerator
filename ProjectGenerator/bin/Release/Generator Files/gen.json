@@ -1,0 +1,65 @@
+{
+  "language": [
+    {
+      "Name": "Python",
+      "OpenCmd": false,
+      "openInExplorer": true,
+      "Folders": [
+        {
+          "dir": "src"
+        },
+        {
+          "dir": "lib"
+        },
+        {
+          "dir": "test"
+        }
+      ],
+      "Files": [
+        {
+          "dir": "src",
+          "fileName": "main.py"
+        },
+        {
+          "dir": "test",
+          "fileName": "test.py"
+        }
+      ]
+    },
+    {
+      "Name": "Rust",
+      "OpenCmd": true,
+      "openInExplorer": true,
+      "Folders": [
+        {
+          "dir": "src"
+        },
+        {
+          "dir": "lib"
+        }
+      ]
+    },
+    {
+      "Name": "C++",
+      "OpenCmd": true,
+      "openInExplorer": true,
+      "Folders": [
+        {
+          "dir": "src"
+        },
+        {
+          "dir": "lib"
+        },
+        {
+          "dir": "includes"
+        },
+        {
+          "dir": "bin"
+        },
+        {
+          "dir": "test"
+        }
+      ]
+    }
+  ]
+}

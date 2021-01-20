@@ -10,5 +10,5 @@ C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectG
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\DarkUI.dll
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\Newtonsoft.Json.xml
-C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.Form1.resources
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.csproj.CopyComplete
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.MainWindow.resources
