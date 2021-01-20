@@ -29,18 +29,17 @@ namespace ProjectGenerator
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.darkLabel1 = new DarkUI.Controls.DarkLabel();
+			this.LangSlect = new DarkUI.Controls.DarkComboBox();
 			this.SuspendLayout();
 			// 
-			// darkLabel1
+			// LangSlect
 			// 
-			this.darkLabel1.AutoSize = true;
-			this.darkLabel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
-			this.darkLabel1.Location = new System.Drawing.Point(387, 199);
-			this.darkLabel1.Name = "darkLabel1";
-			this.darkLabel1.Size = new System.Drawing.Size(60, 13);
-			this.darkLabel1.TabIndex = 0;
-			this.darkLabel1.Text = "darkLabel1";
+			this.LangSlect.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+			this.LangSlect.FormattingEnabled = true;
+			this.LangSlect.Location = new System.Drawing.Point(12, 12);
+			this.LangSlect.Name = "LangSlect";
+			this.LangSlect.Size = new System.Drawing.Size(121, 21);
+			this.LangSlect.TabIndex = 0;
 			// 
 			// Form1
 			// 
@@ -48,18 +47,17 @@ namespace ProjectGenerator
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
 			this.ClientSize = new System.Drawing.Size(800, 450);
-			this.Controls.Add(this.darkLabel1);
+			this.Controls.Add(this.LangSlect);
 			this.Name = "Form1";
 			this.Text = "Form1";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			this.ResumeLayout(false);
-			this.PerformLayout();
 
 		}
 
 		#endregion
 
-		private DarkUI.Controls.DarkLabel darkLabel1;
+		private DarkUI.Controls.DarkComboBox LangSlect;
 	}
 }
 

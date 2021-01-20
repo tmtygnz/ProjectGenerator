@@ -5,7 +5,22 @@
       "gitPush": true,
       "Folders": [
         {
-          "dir": "src",
+          "dir": "src"
+        },
+        {
+          "dir": "lib"
+        }
+      ]
+    },
+    {
+      "Name": "Rusty",
+      "gitPush": true,
+      "Folders": [
+        {
+          "dir": "src"
+        },
+        {
+          "dir": "lib"
         }
       ]
     }

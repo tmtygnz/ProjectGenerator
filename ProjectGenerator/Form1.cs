@@ -10,7 +10,7 @@ using System.Threading;
 using System.Windows.Forms;
 using System.IO;
 using Newtonsoft.Json;
-
+using Newtonsoft.Json.Linq;
 namespace ProjectGenerator
 {
 	public partial class Form1 : Form
@@ -24,18 +24,18 @@ namespace ProjectGenerator
 		{
 			StreamReader reader = new StreamReader(genFilePath);
 			String genFileString = reader.ReadToEnd();
-			genFileSturct obj = JsonConvert.DeserializeObject<genFileSturct>(genFileString);
-			darkLabel1.Text = obj.Language;
+			dynamic obj = JsonConvert.DeserializeObject<dynamic>(genFileString);
+			for (int i = 0; i != obj["language"].Count; i++)
+			{
+				Console.Beep(1222,100);
+				String v = obj["language"][i]["Name"];
+				LangSlect.Items.Add(v);
+			}
 		}
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
 			loadFile();
 		}
-	}
-	public class genFileSturct
-	{
-		public String Language { get; set; }
-		public bool GitCommit { get; set; }
 	}
 }
