@@ -1,0 +1,14 @@
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\ProjectGenerator.exe.config
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\ProjectGenerator.exe
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\ProjectGenerator.pdb
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.csprojAssemblyReference.cache
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.Properties.Resources.resources
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.csproj.GenerateResource.cache
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.exe
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.pdb
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\DarkUI.dll
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.Form1.resources
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Debug\ProjectGenerator.csproj.CopyComplete

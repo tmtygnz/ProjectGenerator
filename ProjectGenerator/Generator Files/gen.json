@@ -1,0 +1,13 @@
+{
+  "language": [
+    {
+      "Name": "python",
+      "gitPush": true,
+      "Folders": [
+        {
+          "dir": "src",
+        }
+      ]
+    }
+  ]
+}
