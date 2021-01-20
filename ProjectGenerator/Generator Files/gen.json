@@ -1,8 +1,9 @@
 {
   "language": [
     {
-      "Name": "python",
-      "gitPush": true,
+      "Name": "Python",
+      "gitPush": false,
+      "openInExplorer": true,
       "Folders": [
         {
           "dir": "src"
@@ -13,14 +14,31 @@
       ]
     },
     {
-      "Name": "Rusty",
+      "Name": "Rust",
       "gitPush": true,
+      "openInExplorer": true,
       "Folders": [
         {
           "dir": "src"
         },
         {
           "dir": "lib"
+        }
+      ]
+    },
+    {
+      "Name": "C++",
+      "gitPush": true,
+      "openInExplorer":true,
+      "Folders": [
+        {
+          "dir": "src"
+        },
+        {
+          "dir": "lib"
+        },
+        {
+          "dir": "includes"
         }
       ]
     }
