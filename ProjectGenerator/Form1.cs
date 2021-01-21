@@ -87,7 +87,10 @@ namespace ProjectGenerator
 					process.StartInfo.WorkingDirectory = folderPath;
 					process.Start();
 				}
-				Process.Start(folderPath);
+				if(OpenExp.Checked == true)
+				{
+					Process.Start(folderPath);
+				}
 			}
 			else
 			{
@@ -100,7 +103,10 @@ namespace ProjectGenerator
 					process.StartInfo.WorkingDirectory = folderPath;
 					process.Start();
 				}
-				Process.Start(folderPath);
+				if (OpenExp.Checked == true)
+				{
+					Process.Start(folderPath);
+				}
 			}
 		}
 
@@ -148,6 +154,11 @@ namespace ProjectGenerator
 				stream.Close();
 			}
 			reader.Close();
+		}
+
+		private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			MessageBox.Show("Version 1.0.0", "About");
 		}
 	}
 }

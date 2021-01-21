@@ -41,7 +41,7 @@
     },
     {
       "Name": "C++",
-      "OpenCmd": true,
+      "OpenCmd": false,
       "openInExplorer": true,
       "Folders": [
         {
@@ -58,6 +58,12 @@
         },
         {
           "dir": "test"
+        }
+      ],
+      "Files": [
+        {
+          "dir": "src",
+          "fileName": "main.cpp"
         }
       ]
     }

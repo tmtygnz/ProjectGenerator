@@ -4,7 +4,6 @@ C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Release\Projec
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Release\DarkUI.dll
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Release\Newtonsoft.Json.dll
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\bin\Release\Newtonsoft.Json.xml
-C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.csprojAssemblyReference.cache
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.MainWindow.resources
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.Properties.Resources.resources
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.csproj.GenerateResource.cache
@@ -12,3 +11,4 @@ C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\Projec
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.csproj.CopyComplete
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.exe
 C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.pdb
+C:\Users\josti\source\repos\ProjectGenerator\ProjectGenerator\obj\Release\ProjectGenerator.csprojAssemblyReference.cache
