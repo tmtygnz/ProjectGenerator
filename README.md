@@ -16,7 +16,7 @@ Run executable and make sure that the generator files is in the same folder
    ![Create a new proj Demo](./img/createProjDemo.gif)
 
    
-### Adding new programming languages
+### Adding and editing new programming languages
  - Open the gen.json folder by opening the file dropdown menu and click the edit generator preferences
  - Edit the json file
 
