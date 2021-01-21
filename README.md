@@ -40,5 +40,5 @@ Please make sure to update tests as appropriate.
 
 # License 
 
-[NU GPLv3](./license.md)
+[GNU GPLv3](./license.md)
 
